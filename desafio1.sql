@@ -126,7 +126,7 @@ CREATE TABLE `SpotifyClone`.`following_artists`(
 
 INSERT INTO `SpotifyClone`.`following_artists` (`user_id`, `artist_id`)
 VALUES (1, 1),
-(1, 2),
+(1, 4),
 (1, 3),
 (2, 1),
 (2, 3),
